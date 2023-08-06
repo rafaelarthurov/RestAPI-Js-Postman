@@ -1,4 +1,4 @@
-# An API automated test using Postman + JavaScript
+# API test automation using Postman + Js
 
 The practices exercises of the book:
 ```
